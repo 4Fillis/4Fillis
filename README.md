@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @4Fillis
 - 👀 I’m interested in ...almost everything 
-- 🌱 I’m currently learning website development
+- 🌱 I’m currently learning website development :) plus python stuff
 - 💞️ I’m looking to collaborate on ... idk 
-- 📫 How to reach me ...uhh no
+- 📫 How to reach me ... via whatever contact info you already have
 - 😄 Pronouns: ...  whatever i don't care
 - ⚡ Fun fact: ... Alien Stage is fantastic.
 <!---
