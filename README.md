@@ -5,6 +5,7 @@ Start out indie gamemaker and veteran electronics enthusiast
 You can click the Preview link to take a look at your changes.
 --->
 
-<p align="center">
+[<p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Helloo everyoneeanimation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
+](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Hey%20everyone%20&reversal=false&textBg=false&fontAlignY=39)
